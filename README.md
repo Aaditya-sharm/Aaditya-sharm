@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **100 Days of Code Challenge (Python)**
 - 🌱 I’m learning **Python, Data Structures, and Algorithms**
 - 🎯 Goal: To build a strong career in **Tech & AI/ML**
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/aadi1221)** | **email-snp.aadi@gmail.com**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/aadi1221)** | **[email](snp.aadi@gmail.com)**
 
 ---
 
